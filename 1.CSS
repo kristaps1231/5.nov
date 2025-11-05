@@ -1,0 +1,15 @@
+.texts {
+  background-color: gray;
+  color: white;
+  font-size: 21px;
+  padding: 20px;
+}
+
+.bilde{
+    size: 100px;
+    padding: 60px;
+    
+}
+.title{
+   text-align: center; /* Center text in .block */
+}
